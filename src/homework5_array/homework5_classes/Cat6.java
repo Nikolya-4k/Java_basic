@@ -1,4 +1,4 @@
-package homework5_classes;
+package homework5_array.homework5_classes;
 
 public class Cat6 {
     String name;

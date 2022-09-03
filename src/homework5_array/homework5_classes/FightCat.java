@@ -1,4 +1,4 @@
-package homework5_classes;
+package homework5_array.homework5_classes;
 /*
 1. Create class Cat
     1.1. Create class Cat

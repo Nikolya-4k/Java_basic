@@ -1,4 +1,4 @@
-package homework5_classes;
+package homework5_array.homework5_classes;
 
 public class Cat5 {
     private static int catCount = 0;
