@@ -8,7 +8,6 @@ Example: A - 1, B - 2
  */
     public static void main(String[] args) {
         System.out.println(Alphabet.G.getLetterPosition());
-
     }
 
     public enum Alphabet {
